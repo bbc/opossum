@@ -1,6 +1,5 @@
 node_modules
 coverage
-dist/*
 test/browser/webpack-test.js
 *.log
 .vscode
